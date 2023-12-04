@@ -14,8 +14,6 @@ The School Management System is designed to efficiently handle various aspects o
 
 - **CQRS (Command Query Responsibility Segregation):** A pattern that separates the responsibilities of reading and writing data. Commands perform changes, and queries retrieve data, optimizing for specific use cases.
 
-- **Event Sourcing:** A pattern where the state of an application is determined by a sequence of events, allowing for auditing, reconstruction of past states, and scalability.
-
 ## Project Structure
 
 The project follows a modular structure based on Clean Architecture:
