@@ -1,0 +1,24 @@
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Data\bin\Debug\net6.0\SchoolProject.Data.deps.json
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Data\bin\Debug\net6.0\SchoolProject.Data.dll
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Data\bin\Debug\net6.0\SchoolProject.Data.pdb
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Data\obj\Debug\net6.0\SchoolProject.Data.csproj.AssemblyReference.cache
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Data\obj\Debug\net6.0\SchoolProject.Data.GeneratedMSBuildEditorConfig.editorconfig
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Data\obj\Debug\net6.0\SchoolProject.Data.AssemblyInfoInputs.cache
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Data\obj\Debug\net6.0\SchoolProject.Data.AssemblyInfo.cs
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Data\obj\Debug\net6.0\SchoolProject.Data.csproj.CoreCompileInputs.cache
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Data\obj\Debug\net6.0\SchoolProject.Data.dll
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Data\obj\Debug\net6.0\refint\SchoolProject.Data.dll
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Data\obj\Debug\net6.0\SchoolProject.Data.pdb
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Data\obj\Debug\net6.0\ref\SchoolProject.Data.dll
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Data\bin\Debug\net6.0\SchoolProject.Data.deps.json
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Data\bin\Debug\net6.0\SchoolProject.Data.dll
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Data\bin\Debug\net6.0\SchoolProject.Data.pdb
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Data\obj\Debug\net6.0\SchoolProject.Data.csproj.AssemblyReference.cache
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Data\obj\Debug\net6.0\SchoolProject.Data.GeneratedMSBuildEditorConfig.editorconfig
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Data\obj\Debug\net6.0\SchoolProject.Data.AssemblyInfoInputs.cache
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Data\obj\Debug\net6.0\SchoolProject.Data.AssemblyInfo.cs
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Data\obj\Debug\net6.0\SchoolProject.Data.csproj.CoreCompileInputs.cache
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Data\obj\Debug\net6.0\SchoolProject.Data.dll
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Data\obj\Debug\net6.0\refint\SchoolProject.Data.dll
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Data\obj\Debug\net6.0\SchoolProject.Data.pdb
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Data\obj\Debug\net6.0\ref\SchoolProject.Data.dll

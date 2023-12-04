@@ -1,0 +1,42 @@
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core\bin\Debug\net6.0\SchoolProject.Core.deps.json
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core\bin\Debug\net6.0\SchoolProject.Core.runtimeconfig.json
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core\bin\Debug\net6.0\SchoolProject.Core.dll
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core\bin\Debug\net6.0\SchoolProject.Core.pdb
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core\bin\Debug\net6.0\SchoolProject.Data.dll
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core\bin\Debug\net6.0\SchoolProject.Service.dll
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core\bin\Debug\net6.0\SchoolProject.Data.pdb
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core\bin\Debug\net6.0\SchoolProject.Service.pdb
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core\obj\Debug\net6.0\SchoolProject.Core.csproj.AssemblyReference.cache
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core\obj\Debug\net6.0\SchoolProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core\obj\Debug\net6.0\SchoolProject.Core.AssemblyInfoInputs.cache
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core\obj\Debug\net6.0\SchoolProject.Core.AssemblyInfo.cs
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core\obj\Debug\net6.0\SchoolProject.Core.csproj.CoreCompileInputs.cache
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core\obj\Debug\net6.0\SchoolProject.Core.csproj.CopyComplete
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core\obj\Debug\net6.0\SchoolProject.Core.dll
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core\obj\Debug\net6.0\refint\SchoolProject.Core.dll
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core\obj\Debug\net6.0\SchoolProject.Core.pdb
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core\obj\Debug\net6.0\SchoolProject.Core.genruntimeconfig.cache
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core\obj\Debug\net6.0\ref\SchoolProject.Core.dll
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core\bin\Debug\net6.0\SchoolProject.infrastructure.dll
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core\bin\Debug\net6.0\SchoolProject.infrastructure.pdb
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core\bin\Debug\net6.0\SchoolProject.Core.deps.json
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core\bin\Debug\net6.0\SchoolProject.Core.runtimeconfig.json
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core\bin\Debug\net6.0\SchoolProject.Core.dll
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core\bin\Debug\net6.0\SchoolProject.Core.pdb
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core\bin\Debug\net6.0\SchoolProject.Data.dll
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core\bin\Debug\net6.0\SchoolProject.infrastructure.dll
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core\bin\Debug\net6.0\SchoolProject.Service.dll
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core\bin\Debug\net6.0\SchoolProject.Data.pdb
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core\bin\Debug\net6.0\SchoolProject.infrastructure.pdb
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core\bin\Debug\net6.0\SchoolProject.Service.pdb
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core\obj\Debug\net6.0\SchoolProject.Core.csproj.AssemblyReference.cache
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core\obj\Debug\net6.0\SchoolProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core\obj\Debug\net6.0\SchoolProject.Core.AssemblyInfoInputs.cache
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core\obj\Debug\net6.0\SchoolProject.Core.AssemblyInfo.cs
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core\obj\Debug\net6.0\SchoolProject.Core.csproj.CoreCompileInputs.cache
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core\obj\Debug\net6.0\SchoolProject.Core.csproj.CopyComplete
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core\obj\Debug\net6.0\SchoolProject.Core.dll
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core\obj\Debug\net6.0\refint\SchoolProject.Core.dll
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core\obj\Debug\net6.0\SchoolProject.Core.pdb
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core\obj\Debug\net6.0\SchoolProject.Core.genruntimeconfig.cache
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core\obj\Debug\net6.0\ref\SchoolProject.Core.dll

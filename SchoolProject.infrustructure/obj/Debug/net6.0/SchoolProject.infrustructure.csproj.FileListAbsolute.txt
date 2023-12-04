@@ -1,0 +1,17 @@
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.infrustructure\bin\Debug\net6.0\SchoolProject.infrustructure.deps.json
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.infrustructure\bin\Debug\net6.0\SchoolProject.infrustructure.runtimeconfig.json
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.infrustructure\bin\Debug\net6.0\SchoolProject.infrustructure.dll
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.infrustructure\bin\Debug\net6.0\SchoolProject.infrustructure.pdb
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.infrustructure\bin\Debug\net6.0\SchoolProject.Data.dll
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.infrustructure\bin\Debug\net6.0\SchoolProject.Data.pdb
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.infrustructure\obj\Debug\net6.0\SchoolProject.infrustructure.csproj.AssemblyReference.cache
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.infrustructure\obj\Debug\net6.0\SchoolProject.infrustructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.infrustructure\obj\Debug\net6.0\SchoolProject.infrustructure.AssemblyInfoInputs.cache
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.infrustructure\obj\Debug\net6.0\SchoolProject.infrustructure.AssemblyInfo.cs
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.infrustructure\obj\Debug\net6.0\SchoolProject.infrustructure.csproj.CoreCompileInputs.cache
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.infrustructure\obj\Debug\net6.0\SchoolProject.infrustructure.csproj.CopyComplete
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.infrustructure\obj\Debug\net6.0\SchoolProject.infrustructure.dll
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.infrustructure\obj\Debug\net6.0\refint\SchoolProject.infrustructure.dll
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.infrustructure\obj\Debug\net6.0\SchoolProject.infrustructure.pdb
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.infrustructure\obj\Debug\net6.0\SchoolProject.infrustructure.genruntimeconfig.cache
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.infrustructure\obj\Debug\net6.0\ref\SchoolProject.infrustructure.dll

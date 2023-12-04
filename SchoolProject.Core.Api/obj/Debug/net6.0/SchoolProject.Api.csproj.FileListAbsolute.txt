@@ -1,0 +1,160 @@
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\appsettings.Development.json
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\appsettings.json
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\SchoolProject.Api.exe
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\SchoolProject.Api.deps.json
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\SchoolProject.Api.runtimeconfig.json
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\SchoolProject.Api.dll
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\SchoolProject.Api.pdb
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\Humanizer.dll
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\SchoolProject.Core.dll
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\SchoolProject.Data.dll
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\SchoolProject.Service.dll
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\SchoolProject.Core.pdb
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\SchoolProject.Data.pdb
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\SchoolProject.Service.pdb
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\obj\Debug\net6.0\SchoolProject.Api.csproj.AssemblyReference.cache
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\obj\Debug\net6.0\SchoolProject.Api.GeneratedMSBuildEditorConfig.editorconfig
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\obj\Debug\net6.0\SchoolProject.Api.AssemblyInfoInputs.cache
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\obj\Debug\net6.0\SchoolProject.Api.AssemblyInfo.cs
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\obj\Debug\net6.0\SchoolProject.Api.csproj.CoreCompileInputs.cache
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\obj\Debug\net6.0\SchoolProject.Api.MvcApplicationPartsAssemblyInfo.cs
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\obj\Debug\net6.0\SchoolProject.Api.MvcApplicationPartsAssemblyInfo.cache
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\obj\Debug\net6.0\staticwebassets\msbuild.SchoolProject.Api.Microsoft.AspNetCore.StaticWebAssets.props
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.SchoolProject.Api.props
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SchoolProject.Api.props
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SchoolProject.Api.props
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\obj\Debug\net6.0\staticwebassets.pack.json
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\obj\Debug\net6.0\staticwebassets.build.json
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\obj\Debug\net6.0\staticwebassets.development.json
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\obj\Debug\net6.0\scopedcss\bundle\SchoolProject.Api.styles.css
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\obj\Debug\net6.0\SchoolProject.Api.csproj.CopyComplete
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\obj\Debug\net6.0\SchoolProject.Api.dll
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\obj\Debug\net6.0\refint\SchoolProject.Api.dll
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\obj\Debug\net6.0\SchoolProject.Api.pdb
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\obj\Debug\net6.0\SchoolProject.Api.genruntimeconfig.cache
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\obj\Debug\net6.0\ref\SchoolProject.Api.dll
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\SchoolProject.infrastructure.dll
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\SchoolProject.infrastructure.pdb
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\MediatR.dll
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\MediatR.Contracts.dll
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\AutoMapper.dll
+F:\ALL .NET\test\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\appsettings.Development.json
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\appsettings.json
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\SchoolProject.Api.exe
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\SchoolProject.Api.deps.json
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\SchoolProject.Api.runtimeconfig.json
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\SchoolProject.Api.dll
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\SchoolProject.Api.pdb
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\AutoMapper.dll
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\Humanizer.dll
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\MediatR.dll
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\MediatR.Contracts.dll
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\SchoolProject.Core.dll
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\SchoolProject.Data.dll
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\SchoolProject.infrastructure.dll
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\SchoolProject.Service.dll
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\SchoolProject.Core.pdb
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\SchoolProject.Data.pdb
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\SchoolProject.infrastructure.pdb
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\bin\Debug\net6.0\SchoolProject.Service.pdb
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\obj\Debug\net6.0\SchoolProject.Api.csproj.AssemblyReference.cache
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\obj\Debug\net6.0\SchoolProject.Api.GeneratedMSBuildEditorConfig.editorconfig
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\obj\Debug\net6.0\SchoolProject.Api.AssemblyInfoInputs.cache
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\obj\Debug\net6.0\SchoolProject.Api.AssemblyInfo.cs
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\obj\Debug\net6.0\SchoolProject.Api.csproj.CoreCompileInputs.cache
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\obj\Debug\net6.0\SchoolProject.Api.MvcApplicationPartsAssemblyInfo.cs
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\obj\Debug\net6.0\SchoolProject.Api.MvcApplicationPartsAssemblyInfo.cache
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\obj\Debug\net6.0\staticwebassets\msbuild.SchoolProject.Api.Microsoft.AspNetCore.StaticWebAssets.props
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.SchoolProject.Api.props
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SchoolProject.Api.props
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SchoolProject.Api.props
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\obj\Debug\net6.0\staticwebassets.pack.json
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\obj\Debug\net6.0\staticwebassets.build.json
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\obj\Debug\net6.0\staticwebassets.development.json
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\obj\Debug\net6.0\scopedcss\bundle\SchoolProject.Api.styles.css
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\obj\Debug\net6.0\SchoolProject.Api.csproj.CopyComplete
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\obj\Debug\net6.0\SchoolProject.Api.dll
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\obj\Debug\net6.0\refint\SchoolProject.Api.dll
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\obj\Debug\net6.0\SchoolProject.Api.pdb
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\obj\Debug\net6.0\SchoolProject.Api.genruntimeconfig.cache
+F:\ALL .NET\Clean Arch\ShcoolProjectCleanArch\SchoolProject.Core.Api\obj\Debug\net6.0\ref\SchoolProject.Api.dll
